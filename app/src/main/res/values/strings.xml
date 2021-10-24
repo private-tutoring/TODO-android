@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Checktest</string>
+    <string name="pref_fruit">fruit</string>
+    <string name="pref_check">check</string>
+</resources>
